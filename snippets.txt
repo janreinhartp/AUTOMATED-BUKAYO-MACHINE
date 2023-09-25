@@ -1,0 +1,17 @@
+
+Control Grinder(40, 47, 100);
+Control ExtruderFwd(42, 100, 100);
+Control ExtruderRwd(43, 100, 100);
+Control Conveyor(41, 35, 100);
+Control Grater(46, 100, 100);
+Control Cutter(34, 100, 100);
+Control TimerCutterDelay(101, 101, 101);
+Control CuttingDelay(100, 100, 100);
+Control CheeseDelay(100, 100, 100);
+
+
+
+int grindTimeAdd = 10;
+int mixingTimeAdd = 20;
+int sliceTimeAdd = 30;
+int sliceIntervalTimeAdd = 40;
